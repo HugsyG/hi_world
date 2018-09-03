@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "602441509162",
+    "firebase_url": "https://hiworld-e704b.firebaseio.com",
+    "project_id": "hiworld-e704b",
+    "storage_bucket": "hiworld-e704b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602441509162:android:dc60907e9add2f91",
+        "android_client_info": {
+          "package_name": "com.example.guoyuzhi.hiworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602441509162-av5tngmncke8maqbc5uddcdtusk9anrk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.guoyuzhi.hiworld",
+            "certificate_hash": "5cb072f7cff5b0e1bb2cae5ecd16b11009e69813"
+          }
+        },
+        {
+          "client_id": "602441509162-fcuqc4j5mbd3jmfepqs2vs8o27ibo2qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyNmyLl1uZB3E9XqqYpd7n5xr22zP-WV4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602441509162-fcuqc4j5mbd3jmfepqs2vs8o27ibo2qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
